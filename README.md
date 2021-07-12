@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **contact@vmoyse.tech**
 
+- ⚡ Fun fact **I play music, synth,drumbox,groovebox,anything that has knobs and makes loud noise !**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valentin moyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin moyse" height="30" width="40" /></a>
