@@ -2,7 +2,7 @@
 <h3 align="center">Learning developpement at WebInPulse (Centrale Nantes)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaudaim&label=Profile%20views&color=0e75b6&style=flat" alt="eaudaim" /> </p>
 
-- 🔭 I’m currently working on [a video-game projetc with Kaboom.JS](https://github.com/zohra5/umanit)
+- 🔭 I’m currently working on [a video-game projetc with Kaboom.JS](#)
 
 - 🌱 I’m currently learning **Angular, Symfony.**
 
