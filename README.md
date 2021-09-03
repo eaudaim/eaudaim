@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
-<h3 align="center">Learning developpement at WebInPulse (Centrale Nantes)</h3>
+<h3 align="center">Was learning developpement at WebInPulse (Centrale Nantes) & now on my bed</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaudaim&label=Profile%20views&color=0e75b6&style=flat" alt="eaudaim" /> </p>
 
 - 🔭 I’m currently working on [a video-game projetc with Kaboom.JS](#)
 
-- 🌱 I’m currently learning **Angular, Symfony.**
+- 🌱 I’m currently learning (mainly) **Symfony & Kaboom.JS.**
 
 - 📫 How to reach me **contact@vmoyse.tech**
 
