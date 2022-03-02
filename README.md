@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Arduino creations](https://github.com/eaudaim/Arduino)
 
-- 🌱 I’m currently learning **Arduino programming**
+- 🌱 I’m currently learning **Arduino & ESP32 programming**
 
 - 📫 How to reach me **contact@vmoyse.tech**
 
