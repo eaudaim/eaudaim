@@ -2,7 +2,7 @@
 <h3 align="center">Was learning developpement at WebInPulse (Centrale Nantes) & now on my desk (& my bed)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaudaim&label=Profile%20views&color=0e75b6&style=flat" alt="eaudaim" /> </p>
 
-- 🔭 I’m currently working on [Arduino creations](https://github.com/eaudaim/Arduino)
+- 🔭 I’m currently working on [ESP32 programming](https://github.com/eaudaim/ESP-32)
 
 - 🌱 I’m currently learning **Arduino & ESP32 programming**
 
