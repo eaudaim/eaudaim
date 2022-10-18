@@ -22,3 +22,26 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaudaim&show_icons=true&locale=en&layout=compact" alt="eaudaim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaudaim&show_icons=true&locale=en" alt="eaudaim" /></p>
+
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/eaudaim rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-7cd40bf3-84eb-4f86-9aac-7b9938870de6' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >eaudaim</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Junior dev', i love electronic, IoT & automation, synthesizer & groovebox...
+
+I work on esp32 & arduino during my free time, and I alternate between web dev and building renovation has work.
+
+
+I plan to start an home automation business in a while.
+</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-7cd40bf3-84eb-4f86-9aac-7b9938870de6' src='https://widgets.fiverr.com/api/v1/seller/eaudaim?widget_id=7cd40bf3-84eb-4f86-9aac-7b9938870de6' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
