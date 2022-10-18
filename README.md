@@ -44,4 +44,4 @@ I plan to start an home automation business in a while.
     </a>
 </div>
 
-<script id='fiverr-seller-widget-script-7cd40bf3-84eb-4f86-9aac-7b9938870de6' src='https://widgets.fiverr.com/api/v1/seller/eaudaim?widget_id=7cd40bf3-84eb-4f86-9aac-7b9938870de6' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
