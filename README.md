@@ -4,38 +4,9 @@
 
 - 🔭 I’m currently working on [ESP32 programming](https://github.com/eaudaim/ESP-32)
 
+- 🌱 I’m currently learning **IoT programming**
 
-
-
-
-- <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/eaudaim rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d0f2eb9e-04ef-40d5-9559-4171eca91692' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >eaudaim</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Junior dev', i love electronic, IoT & automation, synthesizer & groovebox...
-
-I work on esp32 & arduino during my free time, and I alternate between web dev and building renovation has work.
-
-
-I plan to start an home automation business in a while.
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-d0f2eb9e-04ef-40d5-9559-4171eca91692' src='https://widgets.fiverr.com/api/v1/seller/eaudaim?widget_id=d0f2eb9e-04ef-40d5-9559-4171eca91692' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-
-
-
-
-
-- 🌱 I’m currently learning **Arduino & ESP32 programming**
+- 💻 I offer my services on [Fiverr](https://fr.fiverr.com/share/414W91)
 
 - 📫 How to reach me **contact@vmoyse.tech**
 
